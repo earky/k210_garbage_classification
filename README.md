@@ -6,8 +6,6 @@
 
 ## 2.接线图
 
-![QQ图片20240802164259](C:\Users\ASUS\Desktop\QQ图片20240802164259.jpg)
-
 黄(其它垃圾)-3	 绿(厨余垃圾)-2	 红(有害垃圾)-1	 蓝(可回收物)-0 	舵机-17 （记得接3.3V电压，5V电压可能会击穿芯片）
 
 ### 3.说明
@@ -34,8 +32,6 @@
 - **hardware：**maix-bit，Camera, LED screen, 4 small LED lights, 1 steering gear, card reader and TF card (if not, you can burn the file through kflash_gui, and then modify the file location)
 
 ## 2.Wiring diagram
-
-![QQ图片20240802164259](C:\Users\ASUS\Desktop\QQ图片20240802164259.jpg)
 
 Yellow (other garbage)-3	 green (kitchen waste)-2	 red (harmful waste)-1	 blue (recyclables)-0 	steering gear -17 (remember to connect 3.3V voltage, 5V voltage may break down the chip)
 
