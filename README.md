@@ -40,7 +40,7 @@ Yellow (other garbage)-3	 green (kitchen waste)-2	 red (harmful waste)-1	 blue (
 - By turning the steering gear at different angles to simulate the operation of opening different garbage cans, so if you have 4 steering gear that is even better
 - This model only selected part of the garbage for testing, but did not train all the garbage. The garbage styles and quantities are as follows
   - Kitchen waste:              Eight treasures porridge       240		Rock sugar gourd                     210
-  - Recyclables:                  Glasses                                     210                Charger                                       209                                                                                                              .                                       Induction cooker                    209
+  - Recyclables:                  Glasses                                     210                Charger                                       209                                                                                                              .                                       Induction cooker                    210
   - Other garbage:             PE plastic bags                       210                 Disposable cotton swab          210 
   - Hazardous waste:        Lamp                                        210                Battery	                                 210 
 
